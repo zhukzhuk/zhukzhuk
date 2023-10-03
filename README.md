@@ -7,7 +7,7 @@ After more than 10 years in accounting and then working as an economist, I am st
 
 PostgreSQL, Python, Excel
 
-Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
+Python, Pandas, Numpy, Matplotlib, SciPy
 
 
 
